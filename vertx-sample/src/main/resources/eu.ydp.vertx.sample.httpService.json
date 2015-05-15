@@ -1,0 +1,10 @@
+{
+  "main": "java-hk2:com.englishtown.vertx.jersey.JerseyVerticle",
+  "options": {
+    "config": {
+      "host": "localhost",
+      "port": 9200,
+      "resources": ["eu.ydp.vertx.sample.resource"]
+    }
+  }
+}
